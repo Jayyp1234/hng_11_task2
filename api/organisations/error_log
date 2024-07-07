@@ -1,0 +1,11 @@
+[07-Jul-2024 19:15:18 Africa/Lagos] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/sunshi18/public_html/api/organisations/index.php on line 96
+[07-Jul-2024 19:15:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/sunshi18/public_html/api/organisations/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home2/sunshi18/public_html/api/organisations/index.php on line 99
+[07-Jul-2024 19:16:27 Africa/Lagos] Handling POST request
+[07-Jul-2024 19:16:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/sunshi18/public_html/api/organisations/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home2/sunshi18/public_html/api/organisations/index.php on line 64
+[07-Jul-2024 19:23:26 Africa/Lagos] Handling POST request
