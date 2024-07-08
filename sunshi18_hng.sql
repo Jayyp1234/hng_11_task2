@@ -88,8 +88,6 @@ CREATE TABLE `Users` (
 --
 
 INSERT INTO `Users` (`userId`, `publicKey`, `firstName`, `lastName`, `email`, `password`, `phone`, `status`, `createdAt`, `updatedAt`) VALUES
-(1, 'JPnQJ1720375662', 'Johpaul', 'Okeke', 'okekejohnpaul@gmail.com', '$2y$10$2AjwE8/Glf3Zkj1tMOGw7u1WcIQATDeSpJDk9ATKJ4IOWOazapou.', '2349032210788', 1, '2024-07-07 18:07:42', '2024-07-07 18:07:42'),
-(2, 'P8scX1720375677', 'Florence', 'Okeke', 'okekeflorence@gmail.com', '$2y$10$dxUki4jvvmHHM20qAK.uFe2j1iLhXKjBYbjyZ7.3Pm/Rg1nFuoJKa', '2349032210788', 1, '2024-07-07 18:07:57', '2024-07-07 18:07:57');
 
 -- --------------------------------------------------------
 
